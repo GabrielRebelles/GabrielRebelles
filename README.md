@@ -16,7 +16,6 @@
 📌Angular <br>
 📌React.Js <br>
 📌BBDD like MySQL and MongoDB <br>
-📌Some CSS frameworks like Bootstrap, Material UI and Materialize <br>
 📌Agile Methodologies<br>
 📌Git/ Github
 </div>
